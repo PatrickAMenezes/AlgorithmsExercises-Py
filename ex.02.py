@@ -3,5 +3,5 @@ yearssmoked = int(input('Amount of time, in years, that you smoke: '))
 # The smoker loses 0.006 days per cigarette
 smokeddays = yearssmoked*365
 totalcigsmoked = numcigday*smokeddays
-lifetimeremaining = totalcigsmoked*0.006
-print('you smoked for {} days and will lose {} days of life'.format(totalcigsmoked, lifetimeremaining))
+lifetimelost = totalcigsmoked*0.006
+print('you smoked for {} days and has lost {} days of life'.format(totalcigsmoked, lifetimelost))
