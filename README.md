@@ -1,4 +1,4 @@
-# AlgorithExercise-Py
+# AlgorithmsExercises-Py
 Hello, this is some algorithms exercises of Python.
 I will describe every exercise below by they enumeration:
 --------------------------------------------------------------------------------------------
